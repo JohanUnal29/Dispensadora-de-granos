@@ -147,6 +147,13 @@ salida es un registro de 2 bits utilizado para almacenar las salidas correspondi
 
 [![Vista previa del video](https://i.ytimg.com/vi/JroxjESi-8Y/hqdefault.jpg)](https://youtu.be/JroxjESi-8Y)
 
+<p  style="text-align: justify"> 
+
+**A continuación se evidencia la simulación del prototipo funcional:** 
+
+</p>
+[![Texto alternativo](https://img.youtube.com/vi/l9OhKDxRPds/0.jpg)](https://youtu.be/l9OhKDxRPds)
+
 
 ## Evidencia de la implementación
 
