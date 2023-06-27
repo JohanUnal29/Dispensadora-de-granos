@@ -23,7 +23,7 @@
 
 <p  align="center">Johan Nicolás Ardila Hernández</p>
 
-<p  align="center">Emiro Andres Lara Ruiz</p>
+<p  align="center">Emiro andres lara Ruiz</p>
 
 <br></br>
 
@@ -114,6 +114,13 @@ Esta idea nace a partir de la necesidad de una alimentación adecuada y regular 
 ## Diagrama de cajas negras, de bloques
 
   
+### Diagrama:
+
+<p  style="text-align: justify">A continuación podemos evidenciar la conexión entre los diferentes modulos del proyecto, modulos que más adelante serán explicados </p>
+  
+
+<p  align="center"><img  src="https://drive.google.com/uc?export=download&id=1t2Hqz4Sm-9nNRownKtfwdIvLhrZLvAjp"  /></p>
+
 
 ### Motor:
 
