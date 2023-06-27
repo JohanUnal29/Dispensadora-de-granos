@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# PlanAhead v14.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:43:29 MDT 2012
+# Start of session at: Sat Apr 08 17:15:36 2023
+# Process ID: 16788
+# Log file: C:/Users/57313/Desktop/digital/DISPENDADOR/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/57313/Desktop/digital/DISPENDADOR/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+INFO: [Device-36] Loading parts and site information from C:/Xilinx/14.1/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.1/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.1/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source C:/Users/57313/Desktop/digital/DISPENDADOR/pa.fromNetlist.tcl
+# create_project -name DISPENDADOR -dir "C:/Users/57313/Desktop/digital/DISPENDADOR/planAhead_run_2" -part xc3s500efg320-4
+ERROR: [Common-53] User Exception: Project already exists on disk, please use '-force' option to overwrite: 
+     C:\Users\57313\Desktop\digital\DISPENDADOR\planAhead_run_2\DISPENDADOR.ppr
+     C:\Users\57313\Desktop\digital\DISPENDADOR\planAhead_run_2\DISPENDADOR.data
+exit
+INFO: [Common-206] Exiting PlanAhead...
+INFO: [Common-83] Releasing license: PlanAhead

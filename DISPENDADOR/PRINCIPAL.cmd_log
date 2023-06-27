@@ -1,0 +1,666 @@
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "/home/ise/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "/home/ise/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 
+xst -intstyle ise -ifn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.xst" -ofn "C:/Users/57313/Desktop/digital/DISPENDADOR/PRINCIPAL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SALIDA.ucf -p xc3s500e-fg320-4 PRINCIPAL.ngc PRINCIPAL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PRINCIPAL_map.ncd PRINCIPAL.ngd PRINCIPAL.pcf 
+par -w -intstyle ise -ol high -t 1 PRINCIPAL_map.ncd PRINCIPAL.ncd PRINCIPAL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PRINCIPAL.twx PRINCIPAL.ncd -o PRINCIPAL.twr PRINCIPAL.pcf -ucf SALIDA.ucf 
+bitgen -intstyle ise -f PRINCIPAL.ut PRINCIPAL.ncd 

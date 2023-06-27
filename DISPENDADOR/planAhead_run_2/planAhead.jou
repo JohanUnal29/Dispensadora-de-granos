@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:43:29 MDT 2012
+# Start of session at: Sat Apr 08 17:15:36 2023
+# Process ID: 16788
+# Log file: C:/Users/57313/Desktop/digital/DISPENDADOR/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/57313/Desktop/digital/DISPENDADOR/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/57313/Desktop/digital/DISPENDADOR/pa.fromNetlist.tcl
+exit

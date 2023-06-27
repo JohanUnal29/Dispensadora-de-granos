@@ -1,0 +1,17 @@
+MO frequency_divider_50MHz_to_100Hz NULL frequency_divider_50MHz_to_100Hz.v vlg07/frequency__divider__50_m_hz__to__100_hz.bin 1687885020
+MO keyboard_4x4 NULL keyboard_4x4.v vlg28/keyboard__4x4.bin 1687818807
+MO contol NULL ../../../Downloads/control.v vlg1F/contol.bin 1687885020
+MO Mux_2x1 NULL Comparador_de_conteo.v vlg34/_mux__2x1.bin 1687885020
+MO botones NULL botones.v vlg7E/botones.bin 1687885020
+MO stepper_motor_28BYJ48 NULL stepper_motor_28BYJ48.v vlg4D/stepper__motor__28_b_y_j48.bin 1687885020
+MO finalcarrera NULL finalcarrera.v vlg56/finalcarrera.bin 1687885020
+MO siete_segmento NULL siete_segmento.v vlg7B/siete__segmento.bin 1687885020
+MO sietesegmenos NULL sietesegmenos.v vlg2F/sietesegmenos.bin 1687885020
+MO two_second_timer NULL two_second_timer.v vlg0D/two__second__timer.bin 1687885020
+MO PRINCIPAL NULL PRINCIPAL.v vlg0A/_p_r_i_n_c_i_p_a_l.bin 1687885020
+MO DIG_D_FF_1bit NULL ../../../Downloads/control.v vlg6D/_d_i_g___d___f_f__1bit.bin 1687885020
+MO CompUnsigned NULL Comparador_de_conteo.v vlg1C/_comp_unsigned.bin 1687885020
+MO divsorsementos NULL divsorsementos.v vlg35/divsorsementos.bin 1687885020
+MO teclado NULL teclado.v vlg48/teclado.bin 1687885020
+MO contador NULL contador.v vlg06/contador.bin 1687885020
+MO Comparador_de_conteo NULL Comparador_de_conteo.v vlg43/_comparador__de__conteo.bin 1687885020
