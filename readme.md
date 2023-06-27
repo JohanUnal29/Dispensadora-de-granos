@@ -161,3 +161,12 @@ salida es un registro de 2 bits utilizado para almacenar las salidas correspondi
 ## Vídeo del proyecto (que pidió el profe Diego) puede ser enlazado desde youtube o alojado en el git, no sirve desde el drive
 
 ## Referencias
+
+<p  style="text-align: justify"> 
+
+-   UNAL - DNIA - plataforma moodle. (s/f). Edu.Co. Recuperado el 27 de junio de 2023, de https://micampus.unal.edu.co/course/view.php?id=38149 (Material curso electrónica digital).
+
+</p>
+
+
+
