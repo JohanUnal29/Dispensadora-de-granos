@@ -14,6 +14,7 @@
 <br></br>
 <h4 align="center">Profesores:</h4> 
 <p  align="center">Diego Alexander Tibaduiza Burgos</p>
+<p  align="center">Johnny German Cubides Castro</p>
 <br></br>
 <p  align="center">Electrónica Digital I</p>
 <p  align="center">Universidad Nacional de Colombia</p>
@@ -41,7 +42,22 @@ Esta idea nace a partir de la necesidad de una alimentación adecuada y regular 
 
 </p>
 
-  
+## Objetivos
+ <p  style="text-align: justify">
+ 
+ **Principal:**
+ 
+   -   Diseñar un dispensador que mejore la distribución de granos en la cría de gallinas con el fin de optimizar tiempo y recursos en el sector agropecuario.
+   
+ **Secundarios**
+   -   Diseñar e implementar un prototipo funcional para suplir las funciones fisico/mecancias del proyecto.
+   -   Diseñar y aplicar una maquina de estados para controlar la mayor parte lógica del proyecto  
+   -   Implementar el ingreso de repeticiones de distribución por teclado matricial.
+   -   Mostrar el conteo utilizando los displays 7 segmentos.
+   -   Configurar el tiempo de recolección de granos necesarios para llenar el recipiente.
+   
+</p>
+
 ## Diagrama de cajas negras, de bloques
 
 ### Motor:
@@ -94,7 +110,7 @@ A continuación, el módulo verifica si todos los bits en el registro de desplaz
 
 <p  style="text-align: justify">
 
-Descripción: El módulo finalcarrera es un controlador para detectar eventos de carrera final, utilizando dos registros. Un evento de carrera se considera completo cuando los registros (registro0 y registro1) alcanzan el valor '11111111'. La salida es una señal lógica 'OR' de los dos registros.
+El módulo finalcarrera es un controlador para detectar eventos de carrera final, utilizando dos registros. Un evento de carrera se considera completo cuando los registros (registro0 y registro1) alcanzan el valor '11111111'. La salida es una señal lógica 'OR' de los dos registros.
 
 **Entradas:**
 -  `clk`: Señal de reloj de entrada. El flanco de subida de esta señal activa las operaciones dentro del módulo.
@@ -123,10 +139,13 @@ salida es un registro de 2 bits utilizado para almacenar las salidas correspondi
 
 ## Simulaciones (las más relevantes)
 
-<video controls width="500">
-  <source src="URL_DEL_VIDEO" type="TIPO_DE_VIDEO">
-  Tu navegador no admite la reproducción de videos.
-</video>
+<p  style="text-align: justify"> 
+
+**A continuación se evidencia la simulación de la maquina de estados:** 
+
+</p>
+
+[![Vista previa del video](https://i.ytimg.com/vi/JroxjESi-8Y/hqdefault.jpg)](https://youtu.be/JroxjESi-8Y)
 
 
 ## Evidencia de la implementación
