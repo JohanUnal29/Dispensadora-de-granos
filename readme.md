@@ -23,7 +23,7 @@
 
 <p  align="center">Johan Nicolás Ardila Hernández</p>
 
-<p  align="center">Emiro andres lara Ruiz</p>
+<p  align="center">Emiro Andres Lara Ruiz</p>
 
 <br></br>
 
