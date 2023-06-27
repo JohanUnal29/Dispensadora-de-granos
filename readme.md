@@ -123,6 +123,12 @@ salida es un registro de 2 bits utilizado para almacenar las salidas correspondi
 
 ## Simulaciones (las más relevantes)
 
+<video controls width="500">
+  <source src="URL_DEL_VIDEO" type="TIPO_DE_VIDEO">
+  Tu navegador no admite la reproducción de videos.
+</video>
+
+
 ## Evidencia de la implementación
 
 ## Vídeo del proyecto (que pidió el profe Diego) puede ser enlazado desde youtube o alojado en el git, no sirve desde el drive
