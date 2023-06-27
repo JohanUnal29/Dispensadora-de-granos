@@ -22,7 +22,8 @@
 <p  align="center">2023</p>
 
 ## Imagen del proyecto
-**Descripción**
+
+## Descripción
 <p  style="text-align: justify">
 
 A continuación se explicará el proyecto del dispensador de granos, que tiene como objetivo satisfacer las necesidades del sector agropecuario colombiano, en particular en aplicaciones portátiles para la cría de gallinas y otros animales pequeños. El dispensador de granos se diseñará y desarrollará utilizando principios de Electrónica Digital, con el fin de automatizar y simplificar este proceso.
@@ -31,7 +32,7 @@ Para su funcionamiento el dispensador contará con una tarjeta FPGA Nexys 2 de l
 
 </p>
 
-**Alcance y problemática**
+## Alcance y problemática
 <p  style="text-align: justify">
 
 Diseñar, desarrollar e implementar un dispositivo automatizado que permita la distribución eficiente de granos en la cría de gallinas, esto con el fin de optimizar tiempo y recursos en el sector agropecuario.
